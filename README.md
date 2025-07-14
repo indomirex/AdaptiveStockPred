@@ -1,0 +1,1 @@
+# AdaptiveStockPred
